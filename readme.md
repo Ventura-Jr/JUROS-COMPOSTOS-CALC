@@ -1,7 +1,7 @@
 # Calculadora de Juros Compostos
 No regime de juros compostos, os juros corrigíveis de cada período são somados ao capital para o cálculo de novos juros nos períodos seguintes. Nesse caso, o valor da dívida é sempre corrigida e a taxa de juros é calculada sobre esse novo valor.
 
-![image](https://github.com/Ventura-Jr/CRUD-IBRF/assets/122493018/dde180de-0b21-44f8-9c8a-4c911f4c9d07)
+![image](https://github.com/Ventura-Jr/JUROS-COMPOSTOS-CALC/assets/122493018/2787e7c6-a461-4f63-b75f-d642bd8cf23a)
 
 # Desenvolvimento
 A Calculadora de Juros Compostos foi desenvolvido utilizando as seguintes tecnologias:
